@@ -102,8 +102,7 @@ Select category:
 Enter choice: 2
 Item added: Milk
 ```
-
-## 👾 Contributors 👾
+<h2 align = "center">👾 Contributors 👾</h2>
 <table>
 <tr>
     <th> &nbsp; </th>
@@ -139,7 +138,7 @@ Item added: Milk
 </tr>
 </table>
 
-##🫂 Acknowledgments 🫂
+<h2 align = "center">🫂 Acknowledgments 🫂</h2>
 To our CS 211 Instructor, we sincerely express our thanks for guiding us all throughout the semester. Although we have our shortcomings, you stayed patient. To our revered classmates, thank you for being with us, cooperating, learning, and laughing along. With our silly little OOP inside jokes, it is sure to bring some lighthearted and informational memories
----
+
 
