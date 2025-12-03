@@ -13,14 +13,17 @@ It allows users to add items, track expiration dates, view items expiring soon, 
 <br/><br/>
 It demonstrates the practical use of Object-oriented Programming (OOP) concepts such as encapsulation, inheritance, polymorphism, and abstraction, alongside proper file handling and modular design.
 <br/>
+<p align = "center">
 ### Users can:
 🥫 Add a pantry item<br/>
 📋 View all items<br/>
 ⏳ View items expiring soon<br/>
 ❌ Remove an item<br/>
 🚪 Exit the system<br/>
+</p>
 
 ## * * Project File Structure * *
+```
 📂 src/
 └── 📂 pantryapp/
     ├── ☕ PantryApp.java          
@@ -29,8 +32,10 @@ It demonstrates the practical use of Object-oriented Programming (OOP) concepts 
     ├── ☕ CannedItem.java
     ├── ☕ PerishableItem.java
     └── ☕ OtherItem.java
+```
 
-PantryApp.java – Entry point; displays menu and handles user interactions.
-Pantry.java – Manages the list of pantry items (add, remove, display).
-PantryItem.java – Abstract parent class containing shared item properties.
-CannedItem.java / PerishableItem.java / OtherItem.java – Subclasses representing each category.
+```
+'PantryApp.java' – Entry point; displays menu and handles user interactions.
+'Pantry.java' – Manages the list of pantry items (add, remove, display).
+'PantryItem.java' – Abstract parent class containing shared item properties.
+'CannedItem.java' / 'PerishableItem.java' / 'OtherItem.java' – Subclasses representing each category.
