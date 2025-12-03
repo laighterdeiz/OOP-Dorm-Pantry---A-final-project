@@ -23,8 +23,6 @@ Users can:<br/>
 ❌ Remove an item<br/>
 🚪 Exit the system<br/>
 </p>
-
-<br/>
 <br/>
 <h2 align = "center"> 📋 Project File Structure 📋 </h2>
 📂 src/<br/>
@@ -45,4 +43,20 @@ Users can:<br/>
 ```
 <br/>
 <h2 align = "center"> 📁 Steps on how to run the program 📁 </h2>
+Open your terminal inside the src/ folder
+Compile all Java files:
 
+```
+javac pantryapp/*.java
+```
+Run the program:
+
+```
+java pantryapp.PantryApp
+```
+<h2 align = "center">⚙ Features ⚙</h2>
+1. **Add Entry.** Create a new diary entry with timestamp.
+2. **View Entries.** Display all saved entries with numbering.
+3. **Modify Entry.** Edit any existing note by selecting its number
+4. **Delete Entry.** Remove a specific entry permanently.
+5. **Insert Entry.** Add a note at any position in the list.
