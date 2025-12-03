@@ -16,7 +16,6 @@ It allows users to add items, track expiration dates, view items expiring soon, 
 It demonstrates the practical use of Object-oriented Programming (OOP) concepts such as encapsulation, inheritance, polymorphism, and abstraction, alongside proper file handling and modular design.
 </p>
 <br/>
-<br/>
 <p align = "left">
 Users can:<br/>
 🥫 Add a pantry item<br/>
@@ -25,7 +24,7 @@ Users can:<br/>
 ❌ Remove an item<br/>
 🚪 Exit the system<br/>
 </p>
-<br/>
+
 <h2 align = "center"> 📋 Project File Structure 📋 </h2>
 📂 src/<br/>
 └── 📂 pantryapp/<br/>
@@ -46,14 +45,15 @@ Users can:<br/>
 
 <br/>
 <h2 align = "center"> 📁 Steps on how to run the program 📁 </h2>
-Open your terminal inside the src/ folder
+Open your terminal inside the SourceCode/ folder
+<br/>
 Compile all Java files:
 
-`javac pantryapp/*.java`
+`javac SourceCode/*.java`
 
-Run the program:
+Run the program through the terminal:
 
-`java pantryapp.PantryApp`
+`java PantryApp.java`
 
 <h2 align = "center">⚙ Features ⚙</h2>
 1. "Add Entry" Create a new diary entry with timestamp.<br/>
