@@ -46,6 +46,8 @@ Users can:<br/>
 <br/>
 <h2 align = "center"> 📁 Steps on how to run the program 📁 </h2>
 Open your terminal inside the SourceCode/ folder
+
+</p>
 <br/>
 Compile all Java files:
 
@@ -54,6 +56,7 @@ Compile all Java files:
 Run the program through the terminal:
 
 `java PantryApp.java`
+</p>
 
 <h2 align = "center">⚙ Features ⚙</h2>
 1. "Add Entry" Create a new diary entry with timestamp.<br/>
