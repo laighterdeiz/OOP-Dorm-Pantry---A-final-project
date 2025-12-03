@@ -115,8 +115,7 @@ Item added: Milk
 <tr>
     <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
     <td><strong>Lance M. Pria</strong> <br/>
-    <a href="https://github.com/marieemoiselle" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
+    <a href="https://github.com/laighterdeiz" target="_blank">
         </a>
     </td>
     <td>The third wheel</td>
@@ -124,8 +123,7 @@ Item added: Milk
 <tr>
     <td><img src="static/jeisquared.jpg" width="100" height="100"> </td>
     <td><strong>Chris Raye M. Mendoza</strong> <br/>
-    <a href="https://github.com/jeisquaredd" target="_blank">
-    <img src="[https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub](https://github.com/callmeDnD)">
+    <a href="https://github.com/callmeDnD" target="_blank">
         </a>
     </td>
     <td>The Loverboy</td>
@@ -133,8 +131,7 @@ Item added: Milk
 <tr>
     <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
     <td><strong>Lily BeatriZ D. Untalana=z</strong> <br/>
-    <a href="https://github.com/digZy030509" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
+    <a href="https://github.com/" target="_blank">
         </a>
     </td>
     <td>The Lovergirl</td>
