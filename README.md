@@ -116,6 +116,7 @@ Item added: Milk
     <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
     <td><strong>Lance M. Pria</strong> <br/>
     <a href="https://github.com/laighterdeiz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="laighterdeiz's GitHub">
         </a>
     </td>
     <td>The third wheel</td>
@@ -124,13 +125,14 @@ Item added: Milk
     <td><img src="static/jeisquared.jpg" width="100" height="100"> </td>
     <td><strong>Chris Raye M. Mendoza</strong> <br/>
     <a href="https://github.com/callmeDnD" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="callmeDnD's GitHub">
         </a>
     </td>
     <td>The Loverboy</td>
 </tr>
 <tr>
     <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
-    <td><strong>Lily BeatriZ D. Untalana=z</strong> <br/>
+    <td><strong>Lily BeatriZ D. Untalan</strong> <br/>
     <a href="https://github.com/" target="_blank">
         </a>
     </td>
