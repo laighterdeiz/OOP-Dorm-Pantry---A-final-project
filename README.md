@@ -14,7 +14,7 @@ It allows users to add items, track expiration dates, view items expiring soon, 
 It demonstrates the practical use of Object-oriented Programming (OOP) concepts such as encapsulation, inheritance, polymorphism, and abstraction, alongside proper file handling and modular design.
 <br/>
 <p align = "center">
-### Users can:
+Users can:<br/>
 🥫 Add a pantry item<br/>
 📋 View all items<br/>
 ⏳ View items expiring soon<br/>
