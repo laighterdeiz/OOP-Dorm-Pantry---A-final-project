@@ -30,14 +30,14 @@ Users can:<br/>
 
 📂 OOP-Dorm-Pantry/<br/>
 └── 📂 SourceCode/<br/>
-    ├── ☕ PantryApp.java<br/>          
-    ├── ☕ Pantry.java<br/>
-    ├── ☕ PantryItem.java<br/>
-    ├── ☕ CannedItem.java<br/>
-    ├── ☕ PerishableItem.java<br/>
-    ├── ☕ FrozenItem.java<br/>
-    ├── ☕ DryItem.java<br/>
-    └── ☕ OtherItem.java<br/>
+        ├── ☕ PantryApp.java<br/>          
+        ├── ☕ Pantry.java<br/>
+        ├── ☕ PantryItem.java<br/>
+        ├── ☕ CannedItem.java<br/>
+        ├── ☕ PerishableItem.java<br/>
+        ├── ☕ FrozenItem.java<br/>
+        ├── ☕ DryItem.java<br/>
+        └── ☕ OtherItem.java<br/>
 <br/>
 
 `PantryApp.java` – Entry point; displays menu and handles user interactions.<br/>
@@ -49,14 +49,13 @@ Users can:<br/>
 <h2 align = "center"> 📁 Steps on how to run the program 📁 </h2>
 Open your terminal inside the SourceCode/ folder
 
-</p>
 <br/>
 Compile all Java files: 
-<br/>
 
-`javac SourceCode/*.java`
+`
+javac SourceCode/*.java`
 
-Run the program through the terminal:
+Run the program through the terminal, bash:
 
 `java PantryApp.java`
 </p>
