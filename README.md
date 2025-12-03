@@ -105,7 +105,6 @@ Item added: Milk
 ```
 
 ##  ‧₊˚ ┊ Contributors
-
 <table>
 <tr>
     <th> &nbsp; </th>
@@ -116,10 +115,10 @@ Item added: Milk
     <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
     <td><strong>Lance M. Pria</strong> <br/>
     <a href="https://github.com/laighterdeiz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="laighterdeiz's GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=orange" alt="laighterdeiz's GitHub">
         </a>
     </td>
-    <td>The third wheel</td>
+    <td>The Third Wheel</td>
 </tr>
 <tr>
     <td><img src="static/jeisquared.jpg" width="100" height="100"> </td>
@@ -134,6 +133,7 @@ Item added: Milk
     <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
     <td><strong>Lily BeatriZ D. Untalan</strong> <br/>
     <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="Lele's GitHub">
         </a>
     </td>
     <td>The Lovergirl</td>
@@ -141,11 +141,6 @@ Item added: Milk
 </table>
 
 ##  ‧₊˚ ┊ Acknowledgment
-We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.
-
+To our CS 211 Instructor, we sincerely express our thanks for guiding us all throughout the semester. Although we have our shortcomings, you stayed patient. To our revered classmates, thank you for being with us, cooperating, learning, and laughing along. With our silly little OOP inside jokes, it is sure to bring some lighthearted and informational memories
 ---
-<small>
-<b>DISCLAIMER</b><br/>
-This project and its contents are provided for example and learning purposes only. Students are encouraged to use it as a reference and not copy it in its entirety.</small>
-
 
