@@ -22,6 +22,7 @@ Users can:<br/>
 📋 View all items<br/>
 ⏳ View items expiring soon<br/>
 ❌ Remove an item<br/>
+📈 Analytics<br/>
 🚪 Exit the system<br/>
 </p>
 
