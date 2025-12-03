@@ -151,7 +151,7 @@ Item removed.
 ```
 
 <h2 align = "center">👾 Contributors 👾</h2>
-<table>
+<table align = "center">
 <tr>
     <th> &nbsp; </th>
     <th> Name </th>
@@ -177,7 +177,7 @@ Item removed.
 </tr>
 <tr>
     <td><img src="assets/lily.jpg" width="100" height="100"> </td>
-    <td><strong>Lily BeatriZ D. Untalan</strong> <br/>
+    <td><strong>Lily Beatriz D. Untalan</strong> <br/>
     <a href="https://github.com/lilyuntalan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Lele's GitHub">
         </a>
