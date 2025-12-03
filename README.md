@@ -37,25 +37,22 @@ Users can:<br/>
     └── ☕ OtherItem.java<br/>
 <br/>
 
-```
-'PantryApp.java' – Entry point; displays menu and handles user interactions.
-'Pantry.java' – Manages the list of pantry items (add, remove, display).
-'PantryItem.java' – Abstract parent class containing shared item properties.
-'CannedItem.java' / 'PerishableItem.java' / 'OtherItem.java' – Subclasses representing each category.
-```
+`PantryApp.java` – Entry point; displays menu and handles user interactions.<br/>
+`Pantry.java` – Manages the list of pantry items (add, remove, display).<br/>
+`PantryItem.java` – Abstract parent class containing shared item properties.<br/>
+`CannedItem.java` / `PerishableItem.java` / `OtherItem.java` – Subclasses representing each category.<br/>
+
 <br/>
 <h2 align = "center"> 📁 Steps on how to run the program 📁 </h2>
 Open your terminal inside the src/ folder
 Compile all Java files:
 
-```
-javac pantryapp/*.java
-```
+`javac pantryapp/*.java`
+
 Run the program:
 
-```
-java pantryapp.PantryApp
-```
+`java pantryapp.PantryApp`
+
 <h2 align = "center">⚙ Features ⚙</h2>
 1. "Add Entry" Create a new diary entry with timestamp.<br/>
 2. "View Entries" Display all saved entries with numbering.<br/>
@@ -82,8 +79,74 @@ Each subclass reuses the parent’s properties and methods, reducing duplication
 </p>
 <h3 align = "center"> Polymorphism </h3>
 <p align = "center">
-Objects of different subclasses (new CannedItem(), new PerishableItem(), etc.) are stored in the same List<PantryItem>.
+Objects of different subclasses (new CannedItem(), new PerishableItem(), etc. are stored in the same List<PantryItem>.
 When calling item.toString() or item.getCategory(), the program dynamically selects the correct overridden version based on the object's actual type.
 </p>
+
+## ‧₊˚ ┊ Example Output
+```
+===== Dorm Pantry Inventory System =====
+[1] Add Item
+[2] View All Items
+[3] View Items Expiring Soon
+[4] Remove Item
+[5] Exit
+Choose an option: 1
+Enter item name: Milk
+Enter expiration year (YYYY): 2025
+Enter expiration month (1–12): 2
+Enter expiration day (1–31): 10
+Select category:
+[1] Canned
+[2] Perishable
+[3] Other
+Enter choice: 2
+Item added: Milk
+```
+
+##  ‧₊˚ ┊ Contributors
+
+<table>
+<tr>
+    <th> &nbsp; </th>
+    <th> Name </th>
+    <th> Role </th>
+</tr>
+<tr>
+    <td><img src="static/marieemoiselle.JPG" width="100" height="100"> </td>
+    <td><strong>Lance M. Pria</strong> <br/>
+    <a href="https://github.com/marieemoiselle" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="marieemoiselle's GitHub">
+        </a>
+    </td>
+    <td>The third wheel</td>
+</tr>
+<tr>
+    <td><img src="static/jeisquared.jpg" width="100" height="100"> </td>
+    <td><strong>Chris Raye M. Mendoza</strong> <br/>
+    <a href="https://github.com/jeisquaredd" target="_blank">
+    <img src="[https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="jeisquaredd's GitHub](https://github.com/callmeDnD)">
+        </a>
+    </td>
+    <td>The Loverboy</td>
+</tr>
+<tr>
+    <td><img src="static/renzmarrion.jpg" width="100" height="100"> </td>
+    <td><strong>Lily BeatriZ D. Untalana=z</strong> <br/>
+    <a href="https://github.com/digZy030509" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="digZy030509's GitHub">
+        </a>
+    </td>
+    <td>The Lovergirl</td>
+</tr>
+</table>
+
+##  ‧₊˚ ┊ Acknowledgment
+We sincerely express our gratitude to our instructor for the guidance and support provided throughout the completion of this project. We also extend our appreciation to our classmates and peers for their cooperation and encouragement during the development process.
+
+---
+<small>
+<b>DISCLAIMER</b><br/>
+This project and its contents are provided for example and learning purposes only. Students are encouraged to use it as a reference and not copy it in its entirety.</small>
 
 
