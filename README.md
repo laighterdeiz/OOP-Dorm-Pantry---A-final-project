@@ -178,8 +178,8 @@ Item removed.
 <tr>
     <td><img src="static/lily.jpg" width="100" height="100"> </td>
     <td><strong>Lily BeatriZ D. Untalan</strong> <br/>
-    <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="Lele's GitHub">
+    <a href="https://github.com/lilyuntalan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=pink" alt="Lele's GitHub">
         </a>
     </td>
     <td>The Lovergirl</td>
