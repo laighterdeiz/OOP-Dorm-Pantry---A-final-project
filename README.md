@@ -28,16 +28,18 @@ Users can:<br/>
 
 <h2 align = "center"> 📋 Project File Structure 📋 </h2>
 
-📂 OOP-Dorm-Pantry/<br/>
-└── 📂 SourceCode/<br/>
-        ├── ☕ PantryApp.java<br/>          
-        ├── ☕ Pantry.java<br/>
-        ├── ☕ PantryItem.java<br/>
-        ├── ☕ CannedItem.java<br/>
-        ├── ☕ PerishableItem.java<br/>
-        ├── ☕ FrozenItem.java<br/>
-        ├── ☕ DryItem.java<br/>
-        └── ☕ OtherItem.java<br/>
+```
+📂 OOP-Dorm-Pantry/
+└── 📂 SourceCode/
+    ├── ☕ Pantry.java          
+    ├── ☕ PantryApp.java
+    └── ☕ PantryItem.java
+    └── ☕ PerishableItem.java
+    └── ☕ CannedItem.java
+    └── ☕ FrozenItem.java
+    └── ☕ DryItem.java
+    └── ☕ OtherItem.java
+```
        
 <br/>
 
